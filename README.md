@@ -1,1 +1,1 @@
-# sinnerz-music
+# uptime buat bot
